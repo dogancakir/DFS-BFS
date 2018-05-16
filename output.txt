@@ -1,0 +1,4 @@
+BFS: 1 2 3
+according to BFS: NOT BIPARTITE
+DFS: 1 5 3
+according to DFS: NOT BIPARTITE
